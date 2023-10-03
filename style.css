@@ -40,7 +40,7 @@ blockquote {
   /*   display: grid;
     grid-auto-flow: column; */
     display: flex;
-    box-shadow: inset 0 0 6px 1px  rgba(123, 123, 115, 0.494);
+    box-shadow: inset 0 0 1px 1px  rgba(123, 123, 115, 0.494);
     transition: transform 0.3s ease-in-out;
 
 }
